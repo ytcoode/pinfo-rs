@@ -1,0 +1,7 @@
+[package]
+name = "pinfo"
+version = "0.1.0"
+authors = ["yt"]
+edition = "2018"
+
+[dependencies]
